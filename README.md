@@ -1,5 +1,6 @@
 # 宠物识别系统
-
+![avatar](login.jpg)
+![avatar](preview.jpg)
 ### 技术栈
 前端：Vue3、Typescript、Element Plus
 后端：Django
