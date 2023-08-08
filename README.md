@@ -1,18 +1,11 @@
-# web大作业 - 宠物识别系统
+# 宠物识别系统
 
-### 联系方式
-
-#### 2154057 汪清濯
-
-邮箱：672705955@qq.com
-
-电话：18140907880
-
-#### 2154071 张博文
-
-邮箱：2154071@tongji.edu.cn
-
-电话：13070420903
+### 技术栈
+前端：Vue3、Typescript、Element Plus
+后端：Django
+数据库：MySQL
+爬虫：gevent+requests+beautifulsoup4
+深度学习模型：TensorFlow+DenseNet
 
 #### 导入数据库
 
