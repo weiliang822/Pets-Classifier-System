@@ -2,10 +2,10 @@
 ![avatar](login.jpg)
 ![avatar](preview.jpg)
 ### 技术栈
-前端：Vue3、Typescript、Element Plus
-后端：Django
-数据库：MySQL
-爬虫：gevent+requests+beautifulsoup4
+前端：Vue3、Typescript、Element Plus\
+后端：Django\
+数据库：MySQL\
+爬虫：gevent+requests+beautifulsoup4\
 深度学习模型：TensorFlow+DenseNet
 
 #### 导入数据库
