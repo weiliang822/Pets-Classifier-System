@@ -134,3 +134,6 @@ python spider.py
 python models.py
 python train.py
 ```
+
+#### 参考项目
+https://github.com/AaronJny/pets_classifer
