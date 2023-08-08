@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'AXSC';
+  src: url('../font/AaXiaoShanCiLi-2.ttf');
+  /* font-weight: normal;
+    font-size: 15px;
+    font-style: normal; */
+}
+
+@font-face {
+  font-family: 'LC';
+  src: url('../font/LongCang-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'ezxq';
+  src: url('../font/ErZiYuanXiaoQingSenJianFan-Shan-ZhunHei.ttf');
+  font-size: 50px;
+}
